@@ -1,0 +1,14 @@
+{
+  "sessionId": "default-session",
+  "updated": "2026-08-23T23:34:26.659Z",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?"
+    }
+  ]
+}
